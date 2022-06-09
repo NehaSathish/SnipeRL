@@ -1,0 +1,7 @@
+README.md
+setup.py
+sniperl/__init__.py
+sniperl.egg-info/PKG-INFO
+sniperl.egg-info/SOURCES.txt
+sniperl.egg-info/dependency_links.txt
+sniperl.egg-info/top_level.txt
